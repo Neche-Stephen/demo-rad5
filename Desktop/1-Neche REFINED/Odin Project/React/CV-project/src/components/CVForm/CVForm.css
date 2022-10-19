@@ -1,0 +1,10 @@
+div{
+    /* background-color: white; */
+    width: fit-content;
+}
+
+.cvpreview{
+    position: relative;
+    bottom: 26rem;
+    left: 30rem;
+}
